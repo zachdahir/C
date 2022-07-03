@@ -1,0 +1,16 @@
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.csproj.AssemblyReference.cache
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.AssemblyInfoInputs.cache
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.AssemblyInfo.cs
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\assignment7.exe
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\assignment7.deps.json
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\assignment7.runtimeconfig.json
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\assignment7.runtimeconfig.dev.json
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\assignment7.dll
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\ref\assignment7.dll
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\bin\Debug\net5.0\assignment7.pdb
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.dll
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\ref\assignment7.dll
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.pdb
+C:\Users\zachd\Desktop\Bellevue\cis-243\assignment7\obj\Debug\net5.0\assignment7.genruntimeconfig.cache
